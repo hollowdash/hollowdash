@@ -1,16 +1,21 @@
-## Hi there 👋
+## 🚀 About Me
+I am a Unity and NET developer who tends to make projects revolving around Echo VR. I am currently in High School and plan to go into Computer Science via Software Development.
 
-<!--
-**hollowdash/hollowdash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am also an Echo VR Lounge server host and EML/VRML player.
 
-Here are some ideas to get you started:
+## 📚 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Bonzai: An Echo VR Utility (2024 - Current)
+
+Astraloom: A Unity VR Game similar to Echo VR (2024-Current)
+
+## 🛠️ Tools
+
+C# / C++ / Unity / Blender / Docker
+
+## 📞 Contact
+
+Discord: @hollowdash
+
+Gmail: hollowhyphen@gmail.com
+
