@@ -7,7 +7,7 @@ I am also an Echo VR Lounge server host and EML/VRML player.
 
 Bonzai: An Echo VR Utility (2024 - Current)
 
-hollowdash.space: My Website (2024-2025)
+hollowdash.space: My Website (2024 - Current)
 
 ## 🛠️ Tools
 
