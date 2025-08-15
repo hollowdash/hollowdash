@@ -1,21 +1,18 @@
 ## 🚀 About Me
-I am a Unity and NET developer who tends to make projects revolving around Echo VR. I am currently in High School and plan to go into Computer Science and Software Development.
+I'm a 17 year old in my senior year of high school who's been interested in Computer Science since I was about 8 years old. I make things in Visual Studio, Unity, KaiOS Simulator, etc. I currently plan to go to college for Software Development and get a minor in math.
 
-I am also an Echo VR Lounge server host and EML/VRML player.
+## 📚 Current Projects
 
-## 📚 Projects
-
-Bonzai: An Echo VR Utility (2024 - Current)
-
-hollowdash.space: My Website (2024 - Current)
+- Bonzai: An Echo VR Utility (2024 - Current)<br>
+- hollowdash.space: My Website (2024 - Current<br>
+- musikai: Music Streaming Service for Kai OS (2025 - Current)
 
 ## 🛠️ Tools
 
-C# / C++ / Unity / Docker / Node
+C# / Web Dev / Visual Studio / Unity / Docker / Node
 
 ## 📞 Contact
 
-Discord: @hollowdash
-
+Discord: @hollowdash<br>
 Gmail: hollowhyphen@gmail.com
 
