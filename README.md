@@ -3,7 +3,7 @@ I'm a 17 year old in my senior year of high school who's been interested in Comp
 
 ## 📚 Current Projects
 
-- Bonzai: An Echo VR Utility (2024 - Current)<br>
+- bonzai: An Echo VR Utility (2024 - Current)<br>
 - hollowdash.space: My Website (2024 - Current<br>
 - musikai: Music Streaming Service for Kai OS (2025 - Current)
 
