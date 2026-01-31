@@ -15,5 +15,4 @@ I'm a 17 year old in my senior year of high school who's been interested in Comp
 ![](https://nirzak-streak-stats.vercel.app/?user=hollowdash&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hollowdash&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/coltonnscott) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hollowhyphen) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hollowhyphen@gmail.com) 
+## 🌐 Socials: [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hollowhyphen) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hollowhyphen@gmail.com) 
