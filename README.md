@@ -1,16 +1,9 @@
-## 🚀 About Me
-I'm a 18 year old in my senior year of high school who's been interested in Computer Science since I was about 8 years old. I started after being introduced to Scratch in school and then learned more and more stuff about Computer Science and Software Development after that. I'm currently planning to go to college for Software Development and get a minor in math.
+# hello! :]
+<b>im hollow!</b> - im a compsci major and i like to work on projects when im able to
 
-## 📚 Current Projects
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,python,java,js,html,css,linux,docker)](https://skillicons.dev)
 
-- makobot: A Generic Utility Discord Bot (2026 - Current)<br>
-- bonzai: An Echo VR Utility (2024 - Current)<br>
-- hollowdash.space: My Website (2024 - Current<br>
+<img width="88" height="20" alt="image" src="https://github.com/user-attachments/assets/e2e3c729-4d37-4242-baea-e58e3fef4286" />
+<img width="98" height="20" alt="image" src="https://github.com/user-attachments/assets/ac3fa589-a3ac-45ca-ba1c-1b31bf6a7901" />
+<img width="132" height="20" alt="image" src="https://github.com/user-attachments/assets/4da2a398-fe29-4ad5-bd73-3070254607e2" />
 
-## 💻 Tech Stack:
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Sidequest](https://img.shields.io/badge/sidequest-%23101227.svg?style=for-the-badge&logo=sidequest&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
-
-## 📊 GitHub Stats:
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hollowdash&show_icons=true&theme=dark&locale=en&layout=compact" alt="hollowdash" /></p>
-
-## 🌐 Socials: [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hollowhyphen) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hollowhyphen@gmail.com) 
